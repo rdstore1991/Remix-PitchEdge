@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PitchEdge</string>
+    <string name="app_subtitle">DP World ILT20 • Season 5 Analytics</string>
+    <string name="tab_matchday">Dashboard</string>
+    <string name="tab_edges">Edges</string>
+    <string name="tab_tactics">Tactics</string>
+    <string name="tab_selections">Card</string>
+    <string name="hero_banner_desc">Dubai International Cricket Stadium under floodlights</string>
+    <string name="toggle_theme_desc">Toggle light or dark theme</string>
+    <string name="fixture_title">Dubai Capitals vs. Desert Vipers</string>
+    <string name="fixture_meta">Match 6 • Pre-Match • Nov 25, 2026 • 14:30 GMT</string>
+    <string name="toss_time_label">Toss 14:00 GMT (6:00 PM GST)</string>
+    <string name="matches_screen_subtitle">Live &amp; Scheduled Cricket Telemetry</string>
+    <string name="sync_matches_desc">Refresh cricket match listings from API</string>
+    <string name="sync_matches_label">Sync</string>
+    <string name="loading_matches_message">Fetching live match listings from API…</string>
+    <string name="empty_matches_title">No cricket matches available</string>
+    <string name="empty_matches_tip">Tap Sync to fetch live cricket fixtures and scores from CricAPI.</string>
+    <string name="retry_label">Retry</string>
+    <string name="edge_indicator_placeholder_title">PROBABILITY EDGE</string>
+    <string name="edge_indicator_placeholder_value">—.—% EV</string>
+    <string name="edge_indicator_placeholder_note">Pending model &amp; odds sync</string>
+    <string name="status_live_label">LIVE</string>
+    <string name="status_upcoming_label">UPCOMING</string>
+    <string name="status_completed_label">FINAL</string>
+    <string name="status_value_pick_label">VALUE PICK</string>
+    <string name="match_listings_section_title">API Match Listings</string>
+    <string name="match_listings_section_subtitle">Tap any fixture to load scorecard &amp; edge telemetry</string>
+</resources>

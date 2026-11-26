@@ -1,0 +1,8 @@
+{
+  "name": "Remix PitchEdge",
+  "description": "Quantitative matchday telemetry, probability edges, and tactical phase matchups for DP World ILT20 2026 and Women\u0027s Big Bash League 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
